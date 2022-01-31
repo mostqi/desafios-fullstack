@@ -1,4 +1,4 @@
-# Desafio mostQi
+# Desafio mostQI
 
 Seguem abaixo os itens do Desafio mostQi para os candidatos à vaga de Analista SRE/DevOps
 
@@ -17,6 +17,6 @@ O projeto deverá ser apresentado à equipe do mostQi, onde serão avaliados o d
 
 Os desafios serão apresentados em data e hora combinados previamente por e-mail.
 
-## mostQi
+## mostQI
 
 Acesse nosso [linkedin](https://www.linkedin.com/company/mobile-solution-technology/posts/?feedView=all) para mais informações sobre vagas e novidades.
