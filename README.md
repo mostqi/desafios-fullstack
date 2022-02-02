@@ -1,6 +1,6 @@
-# Desafio mostQI
+# Desafio Fullstack
 
-Seguem abaixo os itens do Desafio mostQi para os candidatos à vaga de Analista SRE/DevOps
+Seguem abaixo os itens do desafio para os candidatos à vaga de Fullstack:
 
 1. [Constução de Portal Web](./portal-web/README.md)
 2. [Extras](extras/README.md)
