@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-O objetivo deste desafio é testar as habilidades do candidato no desenvolvimento de aplicações web utilizando as tecnologias .Net Core, Angular, Docker e banco de dados.
+Esperamos testar as habilidades do candidato no desenvolvimento de aplicações web utilizando as tecnologias .Net Core, React ou Angular, Docker e banco de dados.
 
-O portal é uma aplicação web utilizada por nossos colaboradores e clientes. Ele permite o cadastro de clientes, a configuração dos serviços, visualização de dashboards, baixa de relatórios, etc.
+Para isso, deverá ser desenvolvido um portal web para o uso de colaboradores internos e clientes. Ele deverá permitir o cadastro de clientes, a configuração dos serviços, visualização de dashboards, baixa de relatórios, etc.
 
 ## Requisitos
 
