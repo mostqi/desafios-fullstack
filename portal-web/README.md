@@ -56,10 +56,10 @@ Neste desafio o candidato irá construir um portal com as seguintes característ
 Tecnologias a serem exploradas:
 
 - FRAMEWORKS:
-  - Back-end: .Net Core 2.2+
-  - Front-end: Angular 8+
+  - Back-end: .Net Core (Última versão)
+  - Front-end: React ou Angular (Última versão)
 - BANCO DE DADOS
-  - MongoDB ou qualquer banco relacional
+  - MongoDB
 - INFRAESTRUTURA
   - O projeto deve ser containerizado através do DOCKER. Saiba mais em:
     - [What is a container?](https://www.docker.com/resources/what-container)
