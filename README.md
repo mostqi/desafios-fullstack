@@ -2,7 +2,7 @@
 
 Seguem abaixo os itens do desafio para os candidatos à vaga de Fullstack:
 
-1. [Constução de Portal Web](./portal-web/README.md)
+1. [Construção de Portal Web](./portal-web/README.md)
 2. [Extras](extras/README.md)
 
 ## Instruções
