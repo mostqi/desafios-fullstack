@@ -16,6 +16,9 @@ O projeto deverá ser apresentado à equipe do mostQi, onde serão avaliados o d
 ## Como os desafios deverão ser entregues
 
 Os desafios serão apresentados em data e hora combinados previamente por e-mail.
+Para esta apresentação, **publique previamente o portal resultado do desafio** (existem diversas opções gratuitas)  e apresente os resultados obtidos no pagespeed.web.dev durante a apresentação. 
+
+Será avaliada toda a explicação do código e do processo de desenvolvimento, e não apenas o resultado do portal em si.
 
 ## mostQI
 
