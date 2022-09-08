@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Esperamos testar as habilidades do candidato no desenvolvimento de aplicações web utilizando as tecnologias .Net Core, React ou Angular, Docker e banco de dados.
+Esperamos testar as habilidades do candidato no desenvolvimento de aplicações web utilizando as tecnologias .Net Core, React, Docker e banco de dados.
 
 Para isso, deverá ser desenvolvido um portal web para o uso de colaboradores internos e clientes. Ele deverá permitir o cadastro de clientes, a configuração dos serviços, visualização de dashboards, baixa de relatórios, etc.
 
