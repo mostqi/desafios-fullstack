@@ -1,5 +1,7 @@
 # Desafio Fullstack
 
+Olá! Se você ainda não se aplicou para esta vaga, preencha o nosso [Formulário de pré-seleção](https://forms.gle/JDGMRyKXoyv2w4pNA).
+
 Seguem abaixo os itens do desafio para os candidatos à vaga de Fullstack:
 
 1. [Construção de Portal Web](./portal-web/README.md)
