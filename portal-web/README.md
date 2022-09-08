@@ -57,7 +57,7 @@ Tecnologias a serem exploradas:
 
 - FRAMEWORKS:
   - Back-end: .Net Core (Última versão)
-  - Front-end: React ou Angular (Última versão)
+  - Front-end: React (Última versão)
 - BANCO DE DADOS
   - MongoDB
 - INFRAESTRUTURA
